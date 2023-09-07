@@ -2,7 +2,8 @@
 <h3 align="center">Front-End enthusiast, flaner, bjj amateur </h3>
 
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 <!--
 **evglbnv/evglbnv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
