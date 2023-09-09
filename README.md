@@ -20,7 +20,6 @@
 e-mail: jeilo610@gmail.com \
 Telegram: https://t.me/evglbnv \
 Twitter: @jjelo \
-Telegram: https://t.me/evglbnv \
 LinkeIn: in/evglbnv
 
 ### My stats
