@@ -20,8 +20,8 @@
 e-mail: jeilo610@gmail.com \
 Telegram: https://t.me/evglbnv \
 Twitter: @jjelo \
-Telegram: https://t.me/evglbnv\
-in/evglbnv
+Telegram: https://t.me/evglbnv \
+LinkeIn: in/evglbnv
 
 ### My stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
