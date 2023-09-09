@@ -18,9 +18,9 @@
 
 ### Contacts
 e-mail: jeilo610@gmail.com \
-Telegram: https://t.me/evglbnv
-@jjelo
-https://t.me/evglbnv
+Telegram: https://t.me/evglbnv \
+Twitter: @jjelo \
+Telegram: https://t.me/evglbnv\
 in/evglbnv
 
 ### My stats
