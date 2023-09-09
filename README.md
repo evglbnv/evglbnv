@@ -16,15 +16,17 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
+### Contacts
+e-mail: jeilo610@gmail.com \
+Telegram: https://t.me/evglbnv
+
 ### My stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ### Codewars 
 [![codewars](https://www.codewars.com/users/Evglbnv/badges/large)](https://www.codewars.com/users/Evglbnv)
 
-### Contacts
-e-mail: jeilo610@gmail.com \
-Telegram: https://t.me/evglbnv
+
 
 
 <!--
