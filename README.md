@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Evgenii</h1>
 <h3 align="center">Front-End enthusiast, flaner, ex-marketer </h3>
 
-  💻  Love creating beautiful interfaces
-  💻  Team is a key to achieve greatness
+  💻  Love creating beautiful interfaces\
+  💻  Team is a key to achieve greatness\
   💻  Try to keep code clean
 
 ### Techs I know
