@@ -1,6 +1,10 @@
 <h1 align="center">Hi there, I'm Evgenii</h1>
 <h3 align="center">Front-End enthusiast, flaner, ex-marketer </h3>
 
+  💻  Love creating beautiful interfaces
+  💻  Team is a key to achieve greatness
+  💻  Try to keep code clean
+
 ### Techs I know
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
